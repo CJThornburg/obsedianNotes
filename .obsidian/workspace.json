@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "c49a2edc8a035724",
+    "type": "split",
+    "children": [
+      {
+        "id": "d18d628a27501c25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1d0bc42fafb1c81",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "9c33ffba1df47848",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a6e147f0dfd9e34",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "951a07ba4aa56bf8",
+    "type": "split",
+    "children": [
+      {
+        "id": "660636dedc39eafa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "706776fbc68f17eb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "668c9de1ab310f10",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5883eb22c0c58caa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2ca5f96965aa2b69",
+    "type": "split",
+    "children": [
+      {
+        "id": "c23795491a7c3a28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7f41214617b6c31",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bc720a674da6e120",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fbf4cd62cc7d4001",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dfdc9eeb63a2a29b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "706776fbc68f17eb",
+  "lastOpenFiles": [
+    "npm/screenshots/Pasted image 20240606100604.png",
+    "npm/screenshots",
+    "npm/npm-link-load-local-npm-packages.md",
+    "npm",
+    "New folder",
+    "Playwright/screenshot/Pasted image 20240807104950.png",
+    "Playwright/screenshot/Pasted image 20240807101459.png",
+    "Playwright/screenshot/Pasted image 20240807101237.png",
+    "Playwright/screenshot/Pasted image 20240807101114.png",
+    "Playwright/screenshot/Pasted image 20240807101041.png",
+    "Playwright/screenshot/Pasted image 20240807100949.png",
+    "Playwright/screenshot/Pasted image 20240807100345.png",
+    "Playwright/screenshot/Pasted image 20240807095918.png",
+    "Playwright/screenshot/Pasted image 20240807095559.png",
+    "Playwright/screenshot/Pasted image 20240807095400.png",
+    "Playwright/screenshot",
+    "Playwright/Examples/simple-login-logoutPattern.md",
+    "Playwright/Examples",
+    "Playwright/standard-actions.md",
+    "Playwright/setup.md",
+    "Playwright/selectors.md",
+    "Playwright/Fundamentals.md",
+    "Playwright/common-commands.md",
+    "Playwright/assertions.md",
+    "Playwright",
+    "Jira-Chris/Screenshots",
+    "Jira-Chris/Tasks-and-subTasks.md",
+    "Jira-Chris/Searching-for-tasks.md",
+    "Jira-Chris/questions.md",
+    "Jira-Chris/KanbanLightNotes.md",
+    "Jira-Chris/Dashboard-customization.md",
+    "Jira-Chris/Creating-Tasks-Issues.md",
+    "Jira-Chris/Backlog.md",
+    "Jira-Chris/AgileBoards.md",
+    "Jira-Chris",
+    "RTL/screenshots/Untitled.md",
+    "RTL/screenshots",
+    "RTL/RTL-user..md",
+    "RTL/RTL-role-selection.md",
+    "RTL/RTL-JEST-Query-functions.md",
+    "RTL/RTL-Jest-Mock-Functions.md",
+    "RTL/RTL-JEST-Asserstions.md",
+    "RTL/RTL-debug.md",
+    "RTL",
+    "Welcome.md"
+  ]
+}

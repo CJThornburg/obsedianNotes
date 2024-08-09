@@ -1,0 +1,3 @@
+- `getBy` finds exactly one if 0 or more than 1 we get error
+- `queryBy` will just return null if nothing is found, throw an error if more than one is found
+- `findBy` waits about a second to look for it, throws error if 0 or more than 1 is found
